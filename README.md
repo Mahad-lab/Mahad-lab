@@ -70,6 +70,8 @@ languages : `.py`, `.js`, `.ts`, `.sql`, `.html`, `.css`, `.cs`, `.c`
 <details><summary>🔗 API-experienced</summary>
  <img style="height:50px" src="https://www.youtube.com/s/desktop/afaf5292/img/favicon_96x96.png" />
  <img style="height:50px" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-shopping-bag-full-color-66166b2e55d67988b56b4bd28b63c271e2b9713358cb723070a92bde17ad7d63.svg" />
+  <img style="height:50px" src="https://images.ctfassets.net/fzn2n1nzq965/2EOOpI2mMZgHYBlbO44zWV/5a6c5d37402652c80567ec942c733a43/favicon.png?w=180&h=180" />
+  <img style="height:50px" src="https://laz-img-cdn.alicdn.com/imgextra/i1/O1CN01V8uEDV1jdZ9U2wL90_!!6000000004571-73-tps-64-64.ico" />
 </details>
 
 <details><summary>✨ Familiar with</summary>
