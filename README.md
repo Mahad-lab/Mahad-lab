@@ -45,7 +45,7 @@ languages : `.py`, `.js`, `.ts`, `.rs`, `.sql`, `.html`, `.css`, `.cs`, `.c`
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
  <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+ <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 </details>
 
 <details><summary>☁️ Clouds</summary>
